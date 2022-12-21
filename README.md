@@ -1,2 +1,3 @@
-Curso parte da formaçao em Python para Data Science - Alura\n
-Curso de Data Visualization: explorando com Seaborn
+Curso presente na formaçao em Python para Data Science - Alura
+
+Data Visualization: explorando com Seaborn
